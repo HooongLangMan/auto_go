@@ -1,0 +1,16 @@
+.env
+.venv
+node_modules/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.superpowers/
+dist/
+build/
+generated/
+temp_images/
+*.db
+*.sqlite
+*.sqlite3
+*.egg-info/
+*.pyc
