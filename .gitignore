@@ -9,6 +9,7 @@ dist/
 build/
 generated/
 temp_images/
+tests/
 *.db
 *.sqlite
 *.sqlite3
